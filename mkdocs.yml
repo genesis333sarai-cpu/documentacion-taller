@@ -23,7 +23,10 @@ nav:
   - Arquitectura del Sistema: arquitectura.md
   - Guía de Uso: guia-uso.md
   - API / Módulos: api.md
-
+  - Diagramas de Clases: diagramas-clases.md
+  - Pruebas Unitarias: pruebas-unitarias.md
+  - Conclusiones: conclusiones.md
+  
 plugins:
   - search
 
