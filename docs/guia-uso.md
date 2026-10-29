@@ -1,0 +1,1 @@
+![Captura del programa](assets/images/gatos.png)
